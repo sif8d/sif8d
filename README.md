@@ -20,4 +20,4 @@ Currently expanding into backend and machine learning to build solid enterprise 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sif8d&show_icons=true&theme=transparent&hide_border=true)
 
 ### 📫 Get in touch
-[sifoxo945@gmail.com](mailto:sifoxo945@gmail.com)
+**Gamil:** [sifoxo945@gmail.com](mailto:sifoxo945@gmail.com)
